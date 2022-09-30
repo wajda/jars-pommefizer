@@ -10,7 +10,7 @@
 
     <properties>
         <java.compat.version>1.8</java.compat.version>
-        <scala.version>2.13.0</scala.version>
+        <scala.version>2.13.9</scala.version>
         <scala.compat.version>2.13</scala.compat.version>
         <json4s.version>3.6.7</json4s.version>
     </properties>
